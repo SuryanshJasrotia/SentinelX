@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Welcome to our project
 
-## Project info
 
 ## How can I edit this code?
 
@@ -50,5 +47,5 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-=======
+
 
