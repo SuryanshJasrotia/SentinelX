@@ -51,5 +51,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 =======
-# SentinelX
->>>>>>> 4b810d81530831befe8e5335a7ddd81cf53eba16
+
